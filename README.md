@@ -21,8 +21,8 @@ magisk 模块的本地化内容如下
 
 ## 使用方法(任选其一)
 
-一、使用我提取的K20 pro plus 模块，一般来应用是不分机型的，这个模块按理也是可以用在其他机型上  
-直接下载然后使用magisk刷入 https://github.com/kooritea/mipay-extract/releases
+一、使用我提取的Mix 2S 模块，一般来应用是不分机型的，这个模块按理也是可以用在其他机型上  
+直接下载然后使用magisk刷入 https://github.com/storyandwine/mipay-extract/releases
 
 二、使用自己的机型的rom包提取
 
